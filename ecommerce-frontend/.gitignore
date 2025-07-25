@@ -1,0 +1,64 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+.build/
+build/
+out/
+.next/
+.nuxt/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Optional: TypeScript
+*.tsbuildinfo
+
+# Optional: coverage reports
+coverage/
+
+# Optional: logs and debug
+debug.log
+
+# Optional: local development files
+*.local
+
+# Optional: PM2
+.pids
+*.pm2.log
+
+# Optional: Svelte / Vue / React tooling
+.cache/
